@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d855663102c8f0640a42ec4f655e1310
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 47717454c384e5540b8fe31359ed6536
+  - enabled: 1
+    path: Assets/Scenes/BluetubeStage.unity
+    guid: 242a9057551e7d147b7f270355fd693c
+  - enabled: 1
+    path: Assets/Scenes/GamezoneStage.unity
+    guid: b7485d89c725e3a44b5f00715fbd68ac
+  - enabled: 1
+    path: Assets/Scenes/SonetScene.unity
+    guid: 9cf1dafdea4b3644a92f7d13d345bb7a
+  - enabled: 1
+    path: Assets/Scenes/Stage Select.unity
+    guid: 695d3d3d3f140a4499ea7cd6229393a2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 43d3db6946546304d8141cbce1e4d62a
+  m_configObjects: {}
