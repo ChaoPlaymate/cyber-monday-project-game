@@ -13,6 +13,6 @@ public class risingPlat : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        gameObject.transform.position = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y + 0.001f, gameObject.transform.position.z);
+        gameObject.transform.position = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y + (2f * Time.deltaTime), gameObject.transform.position.z);
     }
 }
